@@ -1,11 +1,11 @@
 [db]
-db-dev.daws78s.tech
+db-dev.devops78s.online
 
 [backend]
-backend-dev.daws78s.tech
+backend-dev.devops78s.online
 
 [frontend]
-frontend-dev.daws78s.tech
+devops78s.online
 
 [all:vars]
 ansible_password=DevOps321 #this variable is for all hosts
