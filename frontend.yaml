@@ -1,4 +1,4 @@
-name: configure frontend server
+- name: configure frontend server
   hosts: frontend
   become: yes
   roles:
